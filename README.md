@@ -2,8 +2,8 @@
 
 A princípio é só rodar no terminal os seguintes comandos
 
-minikube start
+  - minikube start
 
 indo agora para a pasta raiz do serviço é só rodar
 
-minikube kubectl -- apply -f <arquivo-do-seu-deploy>.yaml
+  - minikube kubectl -- apply -f <arquivo-do-seu-deploy>.yaml
